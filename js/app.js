@@ -14,3 +14,5 @@ while (numeroIngresado !== numeroAleatorio) {
 }
 
 alert("¡Felicidades! Adivinaste el número " + numeroAleatorio + " en " + intentos + " intentos.");
+
+
